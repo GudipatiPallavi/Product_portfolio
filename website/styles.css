@@ -450,6 +450,8 @@ figure {
 
 figure img {
   width: 40%px;
+  max-width: 500px; /* You can set a limit */
+  height: auto; 
 }
 
 figure::after {
