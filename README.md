@@ -9,7 +9,7 @@ Had a lot of fun building this website. Taking a project from an idea into Figma
 
 
 
-## Acknowledgments
+## Acknowledgment
 - This project was built using [product-design-portfolio](https://github.com/akhillochen/product-design-portfolio?tab=readme-ov-file) as a starting point. 
 - Special thanks to the original author - Akhil Lochen.
 
