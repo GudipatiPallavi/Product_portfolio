@@ -449,8 +449,8 @@ figure {
 }
 
 figure img {
-  width: 30%px;
-  max-width: 400px; /* You can set a limit */
+  width: 20%px;
+  max-width: 100px; /* You can set a limit */
   height: auto; 
 }
 
