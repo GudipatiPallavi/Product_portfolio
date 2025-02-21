@@ -450,7 +450,7 @@ figure {
 
 figure img {
   width: 60%px;
-  max-width: 400px; /* You can set a limit */
+  /* max-width: 400px; You can set a limit */
   height: auto; 
 }
 
